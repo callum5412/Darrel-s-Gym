@@ -1,0 +1,5 @@
+Create a page allowing for signup containing; name, u-name, email, password (with confirmation)
+
+It will need to check if data is inputted correctly (i.e. correct email format and any password requirements)
+
+It will then add these details into the database
